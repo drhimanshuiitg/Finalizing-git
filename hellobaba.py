@@ -1,0 +1,1 @@
+print("Sab bhadiya chal rha hai")
